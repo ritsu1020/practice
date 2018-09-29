@@ -10,3 +10,4 @@
 >- コミットしたらpushしてgithubで確認
 >- Milestoneを立てて期間を定める
 >- Milesotneの中にIsuue1を作り一人で議論する
+>- 特定のコミット状態まで戻す
